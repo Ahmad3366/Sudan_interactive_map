@@ -1,0 +1,166 @@
+{
+  "states": [
+    {
+      "id": "KH",
+      "name": "Khartoum",
+      "capital": "Khartoum",
+      "location": "Central Sudan",
+      "population": 5127400,
+      "famous_landmarks": ["Nile Street", "National Museum of Sudan"],
+      "major_cities": ["Omdurman", "Bahri"]
+    },
+    {
+      "id": "NO",
+      "name": "Northern",
+      "capital": "Dongola",
+      "location": "North Sudan",
+      "population": 3482000,
+      "famous_landmarks": ["Dongola Old Town", "Kerma Archaeological Site"],
+      "major_cities": ["Dongola", "Merowe"]
+    },
+    {
+      "id": "RS",
+      "name": "Red Sea",
+      "capital": "Port Sudan",
+      "location": "East Sudan",
+      "population": 1856000,
+      "famous_landmarks": ["Suakin Island", "Port Sudan Lighthouse"],
+      "major_cities": ["Port Sudan", "Sinkat"]
+    },
+    {
+      "id": "KA",
+      "name": "Kassala",
+      "capital": "Kassala",
+      "location": "East Sudan",
+      "population": 1691000,
+      "famous_landmarks": ["Khatmiyya Mosque", "Taka Mountains"],
+      "major_cities": ["Kassala", "Wad Madani"]
+    },
+    {
+      "id": "DC",
+      "name": "Darfur",
+      "capital": "El Fasher",
+      "location": "West Sudan",
+      "population": 8595000,
+      "famous_landmarks": ["Al-Fashir University", "Jebel Marra"],
+      "major_cities": ["El Fasher", "Nyala"]
+    },
+    {
+      "id": "NB",
+      "name": "Blue Nile",
+      "capital": "Damazin",
+      "location": "Southeast Sudan",
+      "population": 832000,
+      "famous_landmarks": ["Blue Nile Sennar Dam", "Alazraq National Park"],
+      "major_cities": ["Damazin", "Roseires"]
+    },
+    {
+      "id": "NW",
+      "name": "White Nile",
+      "capital": "Rabak",
+      "location": "South Sudan",
+      "population": 5200000,
+      "famous_landmarks": ["Sennar Dam", "White Nile Bridge"],
+      "major_cities": ["Rabak", "Kosti"]
+    },
+    {
+      "id": "KN",
+      "name": "Kordofan",
+      "capital": "El-Obeid",
+      "location": "Central-West Sudan",
+      "population": 4096000,
+      "famous_landmarks": ["Kordofan Giraffes Conservation Area", "Talodi Mountains"],
+      "major_cities": ["El-Obeid", "Kaduqli"]
+    },
+    {
+      "id": "SI",
+      "name": "Sennar",
+      "capital": "Sennar",
+      "location": "Southeast Sudan",
+      "population": 1283000,
+      "famous_landmarks": ["Sennar Dam", "Meroe Pyramids"],
+      "major_cities": ["Sennar", "Singa"]
+    },
+    {
+      "id": "GD",
+      "name": "Al Qadarif",
+      "capital": "Al Qadarif",
+      "location": "East Sudan",
+      "population": 1743000,
+      "famous_landmarks": ["Al Qadarif Museum", "El Faw"],
+      "major_cities": ["Al Qadarif", "Galabat"]
+    },
+    {
+      "id": "DN",
+      "name": "Northern Darfur",
+      "capital": "El Fasher",
+      "location": "Northwest Sudan",
+      "population": 2891000,
+      "famous_landmarks": ["Al-Fashir University", "Jebel Marra"],
+      "major_cities": ["El Fasher", "Kutum"]
+    },
+    {
+      "id": "DS",
+      "name": "Southern Darfur",
+      "capital": "Nyala",
+      "location": "Southwest Sudan",
+      "population": 2970000,
+      "famous_landmarks": ["Nyala University", "Moro Mountains"],
+      "major_cities": ["Nyala", "Ed Daein"]
+    },
+    {
+      "id": "DW",
+      "name": "Western Darfur",
+      "capital": "Geneina",
+      "location": "West Sudan",
+      "population": 1277000,
+      "famous_landmarks": ["Geneina University", "Saraf Omra"],
+      "major_cities": ["Geneina", "Foro Baranga"]
+    },
+    {
+      "id": "DC",
+      "name": "Central Darfur",
+      "capital": "Zalingei",
+      "location": "Central Sudan",
+      "population": 2717000,
+      "famous_landmarks": ["Zalingei University", "Wadi Howar"],
+      "major_cities": ["Zalingei", "Nertiti"]
+    },
+    {
+      "id": "DE",
+      "name": "Eastern Darfur",
+      "capital": "Ed Daein",
+      "location": "East Sudan",
+      "population": 1322000,
+      "famous_landmarks": ["Ed Daein University", "Jebel Marra"],
+      "major_cities": ["Ed Daein", "Abu Karinka"]
+    },
+    {
+      "id": "NW",
+      "name": "White Nile",
+      "capital": "Atbara",
+      "location": "Northeast Sudan",
+      "population": 1068000,
+      "famous_landmarks": ["Atbara Bridge", "Wadi Halfa"],
+      "major_cities": ["Atbara", "Shendi"]
+    },
+    {
+      "id": "NB",
+      "name": "Blue Nile",
+      "capital": "Damazeen",
+      "location": "Southeast Sudan",
+      "population": 832000,
+      "famous_landmarks": ["Blue Nile Sennar Dam", "Alazraq National Park"],
+      "major_cities": ["Damazeen", "Roseires"]
+    },
+    {
+      "id": "GZ",
+      "name": "Gezira",
+      "capital": "Wad Medani",
+      "location": "Central Sudan",
+      "population": 5273000,
+      "famous_landmarks": ["Gezira Scheme", "Managil"],
+      "major_cities": ["Wad Medani", "Ad-Damir"]
+    }
+  ]
+}
